@@ -9,3 +9,13 @@
 - https://github.com/wesbos/JavaScript30
 - https://github.com/denysdovhan/wtfjs
 - https://github.com/getify/You-Dont-Know-JS
+
+
+## AI (Bangla)
+- https://datasinsightsbd.gitbook.io/dsbook/
+- https://aiwithr.github.io/analyst/tool/
+- https://raqueeb.gitbook.io/scikit-learn/
+- https://rakibul-hassan.gitbook.io/mlbook-titanic/
+- https://rakibul-hassan.gitbook.io/deep-learning/
+- https://aiwithr.github.io/nlpbook/
+- https://aiwithr.github.io/aibook/
